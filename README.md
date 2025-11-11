@@ -2,6 +2,145 @@
 This is your new GitHub Profile README!
 To use it:
 
+Create a new public repository with the exact same name as your GitHub username.
+
+Create this file in the root of that new repository, naming it README.md.
+
+Replace placeholders like [YOUR_USERNAME] and your-email@example.com.
+
+Commit and push!
+-->
+
+<!-- This style block adds a simple 'grow' animation on hover for all the skill icons and social links -->
+
+<style>
+.skill-icon-group:hover, .social-link:hover {
+transform: scale(1.08);
+transition: transform 0.2s ease-in-out;
+}
+</style>
+
+<div align="center">
+<!--
+Add your own visitor count, follower, and star badges here.
+Replace [YOUR_USERNAME] with your actual GitHub username.
+-->
+<img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]" alt="Profile Visitor Count"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/github/followers/[YOUR_USERNAME]?label=Followers&style=social" alt="GitHub Followers"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/github/stars/[YOUR_USERNAME]?label=Stars&style=social" alt="GitHub Stars"/>
+</div>
+
+<!-- Use a standard horizontal rule. You can replace this with a custom divider GIF if you host it in your repo. -->
+
+<!--
+A creative way to introduce yourself, inspired by your example.
+Note: GitHub's markdown doesn't support a real profile picture here without a local asset.
+-->
+
+"use strict";
+import { Developer } from "earth";
+
+class BishwadipMaitra extends Developer {
+  constructor() {
+    super();
+    this.name = "BISHWADIP MAITRA";
+    this.title = "Scalable Systems Developer";
+    this.focus = "Building production-grade applications for millions of users.";
+    this.links = {
+      linkedin: "[https://linkedin.com/in/bishwadipmaitra](https://linkedin.com/in/bishwadipmaitra)",
+      email: "mailto:your-email@example.com" // <-- ⚠️ UPDATE THIS
+    };
+  }
+
+  introduce() {
+    console.log(`Hi, I'm ${this.name}, a ${this.title}.`);
+    console.log(`My focus: ${this.focus}`);
+  }
+
+  get philosophy() {
+    return "Write code for humans, not the machine.";
+  }
+}
+
+const Me = new BishwadipMaitra();
+Me.introduce();
+console.log(Me.philosophy);
+
+
+C:\Users\BISHWADIP> node introduce.me.js
+Hi, I'm BISHWADIP MAITRA, a Scalable Systems Developer.
+My focus: Building production-grade applications for millions of users.
+"Write code for humans, not the machine."
+
+
+<h3 align="center">🚀 My Core Tech Stack & Skills 🚀</h3>
+
+<!-- Using skillicons.dev as requested, which looks much cleaner -->
+
+<p align="center">
+<a href="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava,ts,go,python,spring,elasticsearch,aws,docker,githubactions%26perline%3D5" class="skill-icon-group">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava,ts,go,python,spring,elasticsearch,aws,docker,githubactions%26perline%3D5" alt="My Tech Skills"/>
+</a>
+</p>
+
+<p align="center">
+<strong>Key Principles & Practices:</strong>
+
+
+
+
+Object-Oriented Design (OOD) | Unit Testing | Integration Testing | CI/CD | Microservice Architecture
+</p>
+
+🌱 Beyond the Backend
+
+While my core passion is backend engineering, I'm also deeply curious about the bigger picture:
+
+Product Management: Understanding the "why" behind the "what" to build products that truly solve user problems.
+
+Environmental Data Science: Exploring how technology and data can be leveraged for a positive impact on our planet.
+
+<h3 align="center">📊 My Wakatime Stats 📊</h3>
+<div align="center">
+<!--
+This is a placeholder for the WakaTime-ReadMe GitHub Action.
+You will need to set up this action in your repository for it to populate.
+-->
+<!--START_SECTION:waka-->
+(Stats from WakaTime will appear here)
+<!--END_SECTION:waka-->
+</div>
+
+<h3 align="center">🤝 Connect with Me 🤝</h3>
+<div align="center">
+<a href="https://www.linkedin.com/in/bishwadipmaitra/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" class="social-link"/>
+</a>
+<a href="mailto:your-email@example.com" target="_blank"> <!-- ⚠️ UPDATE THIS -->
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" class="social-link"/>
+</a>
+</div>
+
+<h3 align="center">🐍 My GitHub Contributions Snake 🐍</h3>
+<div align="center">
+<!--
+This is a placeholder for the GitHub Snake animation.
+You need to set up a GitHub Action (e.g., github-snake) for this to work.
+Replace [YOUR_USERNAME] with your GitHub username.
+-->
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-snake.svg" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-snake.svg" />
+</picture>
+</div>
+
+<div align="center">
+Made with ❤️ by BISHWADIP MAITRA
+</div><!--
+This is your new GitHub Profile README!
+To use it:
+
 Create a new public repository with the exact same name as your GitHub username (e.g., if your username is 'octocat', the repo must be 'octocat').
 
 Create this file in the root of that new repository, naming it README.md.
