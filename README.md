@@ -1,160 +1,170 @@
-<!--
-This is your new GitHub Profile README!
-To use it:
+<div align="center">
 
-Create a new public repository with the exact same name as your GitHub username (e.g., if your username is 'octocat', the repo must be 'octocat').
+<!-- Hero Section with Gradient Background -->
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 60px 20px; border-radius: 15px; margin-bottom: 30px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+  <h1 style="color: #ffffff; font-size: 3em; margin: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); animation: fadeInDown 1s ease-in;">
+    👋 Hi, I'm Bishwadip Maitra
+  </h1>
+  <p style="color: #f0f0f0; font-size: 1.3em; margin-top: 15px; font-weight: 300;">
+    Backend Engineer • Product Enthusiast • Environmental Data Science Explorer
+  </p>
+</div>
 
-Create this file in the root of that new repository, naming it README.md.
+<!-- About Section with Smooth Transition -->
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 40px 30px; border-radius: 15px; margin-bottom: 30px; box-shadow: 0 8px 25px rgba(0,0,0,0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+  <h2 style="color: #ffffff; font-size: 2.2em; margin-bottom: 20px; text-shadow: 1px 1px 3px rgba(0,0,0,0.2);">
+    🚀 My Vision
+  </h2>
+  <p style="color: #ffffff; font-size: 1.15em; line-height: 1.8; text-align: left; max-width: 800px; margin: 0 auto; text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">
+    I'm passionate about crafting <strong>scalable software solutions</strong> that millions of people can rely on. 
+    My journey in technology is driven by a vision to build production-grade systems that not only solve 
+    real-world problems but also create meaningful impact. Beyond coding, I'm deeply interested in 
+    <strong>product management</strong> — understanding the "why" behind what we build, 
+    <strong>backend engineering</strong> — architecting robust and efficient systems, and 
+    <strong>environmental data science</strong> — leveraging technology for a sustainable future.
+  </p>
+</div>
 
-Commit and push!
--->
+<!-- Skills Section with Color Grading -->
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 40px 30px; border-radius: 15px; margin-bottom: 30px; box-shadow: 0 8px 25px rgba(0,0,0,0.2);">
+  <h2 style="color: #ffffff; font-size: 2.2em; margin-bottom: 25px; text-shadow: 1px 1px 3px rgba(0,0,0,0.2);">
+    💻 Technical Expertise
+  </h2>
+  
+  <!-- Backend Skills -->
+  <div style="margin-bottom: 25px;">
+    <h3 style="color: #ffffff; font-size: 1.6em; margin-bottom: 15px; text-align: left; max-width: 800px; margin-left: auto; margin-right: auto;">
+      Backend Development
+    </h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; max-width: 800px; margin: 0 auto;">
+      <span style="background: rgba(255,255,255,0.25); color: #ffffff; padding: 10px 20px; border-radius: 25px; font-weight: 500; backdrop-filter: blur(10px); transition: all 0.3s ease; cursor: default; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+        Spring Boot
+      </span>
+      <span style="background: rgba(255,255,255,0.25); color: #ffffff; padding: 10px 20px; border-radius: 25px; font-weight: 500; backdrop-filter: blur(10px); transition: all 0.3s ease; cursor: default; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+        Spring Data JPA
+      </span>
+      <span style="background: rgba(255,255,255,0.25); color: #ffffff; padding: 10px 20px; border-radius: 25px; font-weight: 500; backdrop-filter: blur(10px); transition: all 0.3s ease; cursor: default; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+        Elastic Search
+      </span>
+      <span style="background: rgba(255,255,255,0.25); color: #ffffff; padding: 10px 20px; border-radius: 25px; font-weight: 500; backdrop-filter: blur(10px); transition: all 0.3s ease; cursor: default; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+        Spring AI
+      </span>
+      <span style="background: rgba(255,255,255,0.25); color: #ffffff; padding: 10px 20px; border-radius: 25px; font-weight: 500; backdrop-filter: blur(10px); transition: all 0.3s ease; cursor: default; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+        Spring Boot Testing
+      </span>
+      <span style="background: rgba(255,255,255,0.25); color: #ffffff; padding: 10px 20px; border-radius: 25px; font-weight: 500; backdrop-filter: blur(10px); transition: all 0.3s ease; cursor: default; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+        Spring Security
+      </span>
+    </div>
+  </div>
+  
+  <!-- DevOps Skills -->
+  <div style="margin-bottom: 25px;">
+    <h3 style="color: #ffffff; font-size: 1.6em; margin-bottom: 15px; text-align: left; max-width: 800px; margin-left: auto; margin-right: auto;">
+      DevOps & Cloud
+    </h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; max-width: 800px; margin: 0 auto;">
+      <span style="background: rgba(255,255,255,0.25); color: #ffffff; padding: 10px 20px; border-radius: 25px; font-weight: 500; backdrop-filter: blur(10px); transition: all 0.3s ease; cursor: default; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+        GitHub
+      </span>
+      <span style="background: rgba(255,255,255,0.25); color: #ffffff; padding: 10px 20px; border-radius: 25px; font-weight: 500; backdrop-filter: blur(10px); transition: all 0.3s ease; cursor: default; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+        CI/CD
+      </span>
+      <span style="background: rgba(255,255,255,0.25); color: #ffffff; padding: 10px 20px; border-radius: 25px; font-weight: 500; backdrop-filter: blur(10px); transition: all 0.3s ease; cursor: default; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+        AWS
+      </span>
+      <span style="background: rgba(255,255,255,0.25); color: #ffffff; padding: 10px 20px; border-radius: 25px; font-weight: 500; backdrop-filter: blur(10px); transition: all 0.3s ease; cursor: default; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+        Docker
+      </span>
+    </div>
+  </div>
+  
+  <!-- Programming Languages -->
+  <div>
+    <h3 style="color: #ffffff; font-size: 1.6em; margin-bottom: 15px; text-align: left; max-width: 800px; margin-left: auto; margin-right: auto;">
+      Programming Languages
+    </h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; max-width: 800px; margin: 0 auto;">
+      <span style="background: rgba(255,255,255,0.25); color: #ffffff; padding: 10px 20px; border-radius: 25px; font-weight: 500; backdrop-filter: blur(10px); transition: all 0.3s ease; cursor: default; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+        Java
+      </span>
+      <span style="background: rgba(255,255,255,0.25); color: #ffffff; padding: 10px 20px; border-radius: 25px; font-weight: 500; backdrop-filter: blur(10px); transition: all 0.3s ease; cursor: default; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+        Python
+      </span>
+      <span style="background: rgba(255,255,255,0.25); color: #ffffff; padding: 10px 20px; border-radius: 25px; font-weight: 500; backdrop-filter: blur(10px); transition: all 0.3s ease; cursor: default; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+        TypeScript
+      </span>
+      <span style="background: rgba(255,255,255,0.25); color: #ffffff; padding: 10px 20px; border-radius: 25px; font-weight: 500; backdrop-filter: blur(10px); transition: all 0.3s ease; cursor: default; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+        Go
+      </span>
+      <span style="background: rgba(255,255,255,0.25); color: #ffffff; padding: 10px 20px; border-radius: 25px; font-weight: 500; backdrop-filter: blur(10px); transition: all 0.3s ease; cursor: default; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+        C++
+      </span>
+    </div>
+  </div>
+</div>
 
-<!--
-This style block adds a simple 'grow' animation on hover for all the skill badges and social links.
-GitHub's CSS support is limited, but this provides a nice, subtle effect.
--->
+<!-- Contact Section with Gradient -->
+<div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 40px 30px; border-radius: 15px; margin-bottom: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.2);">
+  <h2 style="color: #ffffff; font-size: 2.2em; margin-bottom: 20px; text-shadow: 1px 1px 3px rgba(0,0,0,0.2);">
+    📫 Let's Connect
+  </h2>
+  <p style="color: #ffffff; font-size: 1.15em; margin-bottom: 25px; text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">
+    I'm always excited to connect with fellow developers, discuss innovative ideas, or explore collaboration opportunities!
+  </p>
+  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+    <a href="mailto:bishwadip.m21@iiits.in" style="text-decoration: none;">
+      <div style="background: rgba(255,255,255,0.3); color: #ffffff; padding: 15px 30px; border-radius: 30px; font-weight: 600; font-size: 1.1em; backdrop-filter: blur(10px); transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(0,0,0,0.1); border: 2px solid rgba(255,255,255,0.3);">
+        📧 Email Me
+      </div>
+    </a>
+    <a href="https://www.linkedin.com/in/bishwadipmaitra/" target="_blank" style="text-decoration: none;">
+      <div style="background: rgba(255,255,255,0.3); color: #ffffff; padding: 15px 30px; border-radius: 30px; font-weight: 600; font-size: 1.1em; backdrop-filter: blur(10px); transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(0,0,0,0.1); border: 2px solid rgba(255,255,255,0.3);">
+        💼 LinkedIn
+      </div>
+    </a>
+  </div>
+</div>
+
+<!-- Footer Quote -->
+<div style="margin-top: 40px; padding: 20px;">
+  <p style="color: #666; font-style: italic; font-size: 1.1em; margin: 0;">
+    "Building software that scales, one line of code at a time."
+  </p>
+</div>
+
+</div>
 
 <style>
-.skill-badge:hover, .social-link:hover {
-transform: scale(1.1);
-transition: transform 0.15s ease-in-out;
-}
+  /* Smooth animations and transitions */
+  @keyframes fadeInDown {
+    from {
+      opacity: 0;
+      transform: translateY(-20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  /* Hover effects for skill badges */
+  div[style*="rgba(255,255,255,0.25)"]:hover {
+    transform: translateY(-3px) scale(1.05);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+    background: rgba(255,255,255,0.35) !important;
+  }
+  
+  /* Hover effects for contact buttons */
+  a div[style*="rgba(255,255,255,0.3)"]:hover {
+    transform: translateY(-3px) scale(1.05);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+    background: rgba(255,255,255,0.45) !important;
+  }
+  
+  /* Section hover effects */
+  div[style*="linear-gradient"]:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 35px rgba(0,0,0,0.3);
+  }
 </style>
-
-<div align="center">
-<h1>
-Hi there, I'm BISHWADIP MAITRA 👋
-</h1>
-
-<p>
-I'm a passionate software developer focused on building highly scalable, production-grade systems.
-<br />
-My goal is to continuously learn and apply my skills to develop applications that <strong>millions of users</strong> can rely on.
-</p>
-</div>
-
-<!-- A little about my philosophy -->
-
-<div align="center">
-<h2>My Coding Philosophy</h2>
-<blockquote style="font-size: 1.1em; font-style: italic; border-left: 5px solid #6DB33F; padding-left: 15px;">
-"Write code for humans, not the machine."
-</blockquote>
-</div>
-
-🚀 My Core Tech Stack & Skills
-
-<p align="center">
-<strong>Languages:</strong>
-
-
-
-
-
-
-<a href="https://dev.java/" target="_blank">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" class="skill-badge"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" class="skill-badge"/>
-</a>
-<a href="https://go.dev/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Go-00ADD8%3Fstyle%3Dfor-the-badge%26logo%3Dgo%26logoColor%3Dwhite" alt="Go" class="skill-badge"/>
-</a>
-<a href="https://www.python.org/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python" class="skill-badge"/>
-</a>
-</p>
-
-<p align="center">
-<strong>Frameworks, Data & AI:</strong>
-
-
-
-
-
-
-<a href="https://spring.io/projects/spring-boot" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Spring_Boot-6DB33F%3Fstyle%3Dfor-the-badge%26logo%3Dspring%26logoColor%3Dwhite" alt="Spring Boot" class="skill-badge"/>
-</a>
-<a href="https://spring.io/projects/spring-data-jpa" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Spring_Data_JPA-6DB33F%3Fstyle%3Dfor-the-badge%26logo%3Dspring%26logoColor%3Dwhite" alt="Spring Data JPA" class="skill-badge"/>
-</a>
-<a href="https://spring.io/projects/spring-ai" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Spring_AI-6DB33F%3Fstyle%3Dfor-the-badge%26logo%3Dspring%26logoColor%3Dwhite" alt="Spring AI" class="skill-badge"/>
-</a>
-<a href="https://www.elastic.co/elasticsearch/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Elasticsearch-005571%3Fstyle%3Dfor-the-badge%26logo%3Delasticsearch%26logoColor%3Dwhite" alt="Elasticsearch" class="skill-badge"/>
-</a>
-</p>
-
-<p align="center">
-<strong>Cloud, DevOps & Architecture:</strong>
-
-
-
-
-
-
-<a href="https://aws.amazon.com/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" alt="AWS" class="skill-badge"/>
-</a>
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker" class="skill-badge"/>
-</a>
-<a href="#" target="_blank"> <!-- Add link to your CI/CD pipeline examples if any -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CI/CD_Pipeline-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dgithub-actions%26logoColor%3Dwhite" alt="CI/CD" class="skill-badge"/>
-</a>
-<a href="#" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Microservices-blueviolet%3Fstyle%3Dfor-the-badge" alt="Microservices" class="skill-badge"/>
-</a>
-</p>
-
-<p align="center">
-<strong>Testing & Principles:</strong>
-
-
-
-
-
-
-<a href="#" target="blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Object_Oriented_Design(OOD)-grey?style=for-the-badge" alt="OOD" class="skill-badge"/>
-</a>
-<a href="#" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Unit_Testing-green%3Fstyle%3Dfor-the-badge" alt="Unit Testing" class="skill-badge"/>
-</a>
-<a href="#" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Integration_Testing-darkgreen%3Fstyle%3Dfor-the-badge" alt="Integration Testing" class="skill-badge"/>
-</a>
-</p>
-
-🌱 Beyond the Backend
-
-While my core passion is backend engineering, I'm also deeply curious about the bigger picture:
-
-Product Management: Understanding the "why" behind the "what" to build products that truly solve user problems.
-
-Environmental Data Science: Exploring how technology and data can be leveraged for a positive impact on our planet.
-
-📫 Let's Connect
-
-I'm always open to connecting with like-minded individuals, discussing new technologies, or collaborating on interesting projects.
-
-<p align="center">
-<a href="https://www.linkedin.com/in/bishwadipmaitra/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" class="social-link"/>
-</a>
-<a href="mailto:your-email@example.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" class="social-link"/>
-</a>
-</p>
-
-<!-- Optional: GitHub Stats -->
-
-<!--
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyour-github-username%26show_icons%3Dtrue%26theme%3Dradical" alt="GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyour-github-username%26layout%3Dcompact%26theme%3Dradical" alt="Top Languages" />
-</p>
--->
