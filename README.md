@@ -154,9 +154,16 @@ GitHub's CSS support is limited, but this provides a nice, subtle effect.
 -->
 
 <style>
+.skill-badge, .social-link {
+display: inline-block;
+margin: 5px;
+transition: all 0.3s ease-in-out;
+}
+
 .skill-badge:hover, .social-link:hover {
 transform: scale(1.1);
-transition: transform 0.15s ease-in-out;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+filter: brightness(1.1);
 }
 </style>
 
@@ -198,10 +205,10 @@ My goal is to continuously learn and apply my skills to develop applications tha
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" class="skill-badge"/>
 </a>
 <a href="https://go.dev/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Go-00ADD8%3Fstyle%3Dfor-the-badge%26logo%3Dgo%26logoColor%3Dwhite" alt="Go" class="skill-badge"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" class="skill-badge"/>
 </a>
 <a href="https://www.python.org/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python" class="skill-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" class="skill-badge"/>
 </a>
 </p>
 
@@ -214,16 +221,16 @@ My goal is to continuously learn and apply my skills to develop applications tha
 
 
 <a href="https://spring.io/projects/spring-boot" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Spring_Boot-6DB33F%3Fstyle%3Dfor-the-badge%26logo%3Dspring%26logoColor%3Dwhite" alt="Spring Boot" class="skill-badge"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" class="skill-badge"/>
 </a>
 <a href="https://spring.io/projects/spring-data-jpa" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Spring_Data_JPA-6DB33F%3Fstyle%3Dfor-the-badge%26logo%3Dspring%26logoColor%3Dwhite" alt="Spring Data JPA" class="skill-badge"/>
+<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA" class="skill-badge"/>
 </a>
 <a href="https://spring.io/projects/spring-ai" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Spring_AI-6DB33F%3Fstyle%3Dfor-the-badge%26logo%3Dspring%26logoColor%3Dwhite" alt="Spring AI" class="skill-badge"/>
+<img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI" class="skill-badge"/>
 </a>
 <a href="https://www.elastic.co/elasticsearch/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Elasticsearch-005571%3Fstyle%3Dfor-the-badge%26logo%3Delasticsearch%26logoColor%3Dwhite" alt="Elasticsearch" class="skill-badge"/>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" class="skill-badge"/>
 </a>
 </p>
 
@@ -236,16 +243,16 @@ My goal is to continuously learn and apply my skills to develop applications tha
 
 
 <a href="https://aws.amazon.com/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" alt="AWS" class="skill-badge"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" class="skill-badge"/>
 </a>
 <a href="https://www.docker.com/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker" class="skill-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" class="skill-badge"/>
 </a>
 <a href="#" target="_blank"> <!-- Add link to your CI/CD pipeline examples if any -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CI/CD_Pipeline-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dgithub-actions%26logoColor%3Dwhite" alt="CI/CD" class="skill-badge"/>
+<img src="https://img.shields.io/badge/CI/CD_Pipeline-007ACC?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" class="skill-badge"/>
 </a>
 <a href="#" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Microservices-blueviolet%3Fstyle%3Dfor-the-badge" alt="Microservices" class="skill-badge"/>
+<img src="https://img.shields.io/badge/Microservices-blueviolet?style=for-the-badge" alt="Microservices" class="skill-badge"/>
 </a>
 </p>
 
@@ -258,13 +265,13 @@ My goal is to continuously learn and apply my skills to develop applications tha
 
 
 <a href="#" target="blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Object_Oriented_Design(OOD)-grey?style=for-the-badge" alt="OOD" class="skill-badge"/>
+<img src="https://img.shields.io/badge/Object_Oriented_Design(OOD)-grey?style=for-the-badge" alt="OOD" class="skill-badge"/>
 </a>
 <a href="#" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Unit_Testing-green%3Fstyle%3Dfor-the-badge" alt="Unit Testing" class="skill-badge"/>
+<img src="https://img.shields.io/badge/Unit_Testing-green?style=for-the-badge" alt="Unit Testing" class="skill-badge"/>
 </a>
 <a href="#" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Integration_Testing-darkgreen%3Fstyle%3Dfor-the-badge" alt="Integration Testing" class="skill-badge"/>
+<img src="https://img.shields.io/badge/Integration_Testing-darkgreen?style=for-the-badge" alt="Integration Testing" class="skill-badge"/>
 </a>
 </p>
 
@@ -282,10 +289,10 @@ I'm always open to connecting with like-minded individuals, discussing new techn
 
 <p align="center">
 <a href="https://www.linkedin.com/in/bishwadipmaitra/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" class="social-link"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" class="social-link"/>
 </a>
 <a href="mailto:your-email@example.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" class="social-link"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" class="social-link"/>
 </a>
 </p>
 
