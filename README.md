@@ -69,66 +69,135 @@ I think about AI products holistically — not just the model, but the **system 
 ## 🛠️ Tech Stack
 
 ### ☕ Backend & Frameworks
-<p>
-  <a href="https://spring.io/projects/spring-boot"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="48" height="48"/></a>
-  &nbsp;
-  <a href="https://spring.io/projects/spring-ai"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring AI" width="48" height="48"/></a>
-  &nbsp;
-  <a href="https://spring.io/projects/spring-data-jpa"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Data JPA" width="48" height="48"/></a>
-  &nbsp;
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48"/></a>
-</p>
-<p>
-  <sub>Spring Boot &nbsp;&nbsp;&nbsp;&nbsp; Spring AI &nbsp;&nbsp;&nbsp;&nbsp; Spring Data JPA &nbsp;&nbsp;&nbsp;&nbsp; Java</sub>
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <a href="https://spring.io/projects/spring-boot">
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="52" height="52" alt="Spring Boot"/>
+      </a>
+      <br/><b>Spring Boot</b>
+    </td>
+    <td align="center" width="110">
+      <a href="https://spring.io/projects/spring-ai">
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="52" height="52" alt="Spring AI"/>
+      </a>
+      <br/><b>Spring AI</b>
+    </td>
+    <td align="center" width="110">
+      <a href="https://spring.io/projects/spring-data-jpa">
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="52" height="52" alt="Spring Data JPA"/>
+      </a>
+      <br/><b>Spring Data JPA</b>
+    </td>
+    <td align="center" width="110">
+      <a href="https://www.java.com">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="52" height="52" alt="Java"/>
+      </a>
+      <br/><b>Java</b>
+    </td>
+  </tr>
+</table>
 
 ### 🗄️ Databases & Caching
-<p>
-  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="48" height="48"/></a>
-  &nbsp;
-  <a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="48" height="48"/></a>
-  &nbsp;
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="48" height="48"/></a>
-</p>
-<p>
-  <sub>PostgreSQL &nbsp;&nbsp;&nbsp;&nbsp; Redis &nbsp;&nbsp;&nbsp;&nbsp; SQL / MySQL</sub>
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <a href="https://www.postgresql.org">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="52" height="52" alt="PostgreSQL"/>
+      </a>
+      <br/><b>PostgreSQL</b>
+    </td>
+    <td align="center" width="110">
+      <a href="https://redis.io">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="52" height="52" alt="Redis"/>
+      </a>
+      <br/><b>Redis</b>
+    </td>
+    <td align="center" width="110">
+      <a href="https://www.mysql.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="52" height="52" alt="MySQL"/>
+      </a>
+      <br/><b>SQL / MySQL</b>
+    </td>
+  </tr>
+</table>
 
 ### 🤖 ML / AI
-<p>
-  <a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="48" height="48"/></a>
-  &nbsp;
-  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="48" height="48"/></a>
-  &nbsp;
-  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48"/></a>
-  &nbsp;
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48"/></a>
-</p>
-<p>
-  <sub>PyTorch &nbsp;&nbsp;&nbsp;&nbsp; scikit-learn &nbsp;&nbsp;&nbsp;&nbsp; Pandas &nbsp;&nbsp;&nbsp;&nbsp; Python</sub>
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <a href="https://pytorch.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="52" height="52" alt="PyTorch"/>
+      </a>
+      <br/><b>PyTorch</b>
+    </td>
+    <td align="center" width="110">
+      <a href="https://scikit-learn.org/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="52" height="52" alt="scikit-learn"/>
+      </a>
+      <br/><b>scikit-learn</b>
+    </td>
+    <td align="center" width="110">
+      <a href="https://pandas.pydata.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="52" height="52" alt="Pandas"/>
+      </a>
+      <br/><b>Pandas</b>
+    </td>
+    <td align="center" width="110">
+      <a href="https://www.python.org">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="52" height="52" alt="Python"/>
+      </a>
+      <br/><b>Python</b>
+    </td>
+  </tr>
+</table>
 
 ### ☁️ DevOps & Cloud
-<p>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="48" height="48"/></a>
-  &nbsp;
-  <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="48" height="48"/></a>
-  &nbsp;
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48"/></a>
-</p>
-<p>
-  <sub>Docker &nbsp;&nbsp;&nbsp;&nbsp; AWS &nbsp;&nbsp;&nbsp;&nbsp; Git</sub>
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <a href="https://www.docker.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="52" height="52" alt="Docker"/>
+      </a>
+      <br/><b>Docker</b>
+    </td>
+    <td align="center" width="110">
+      <a href="https://aws.amazon.com">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="52" height="52" alt="AWS"/>
+      </a>
+      <br/><b>AWS</b>
+    </td>
+    <td align="center" width="110">
+      <a href="https://git-scm.com/">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="52" height="52" alt="Git"/>
+      </a>
+      <br/><b>Git</b>
+    </td>
+  </tr>
+</table>
 
 ### 🧪 Testing & Tools
-<p>
-  <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48"/></a>
-  &nbsp;
-  <a href="https://site.mockito.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Mockito" width="48" height="48"/></a>
-</p>
-<p>
-  <sub>Postman &nbsp;&nbsp;&nbsp;&nbsp; Mockito</sub>
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <a href="https://postman.com">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="52" height="52" alt="Postman"/>
+      </a>
+      <br/><b>Postman</b>
+    </td>
+    <td align="center" width="110">
+      <a href="https://site.mockito.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="52" height="52" alt="Mockito"/>
+      </a>
+      <br/><b>Mockito</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -152,11 +221,35 @@ I think about AI products holistically — not just the model, but the **system 
 
 <div align="center">
 
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-View_Publications-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=yYEHAIEAAAAJ&hl=en)
-
-> 🔬 Research focus: **Environmental Data Science** — applying ML to ecological and environmental problems
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-View_All_Publications-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=yYEHAIEAAAAJ&hl=en)
 
 </div>
+
+<br/>
+
+### 📄 Paper 1
+
+> **Uncovering Key Drivers of Tropospheric O₃ Prediction in Rajshahi: A Remote Sensing Framework in the Absence of Ground Monitoring**
+>
+> **Bishwadip Maitra**, Dipanwita Maitra, Subhojit Mandai, Mainak Thakur
+>
+> 🏛️ Publisher: **IEEE** &nbsp;|&nbsp; 🌍 Domain: Environmental Data Science · Remote Sensing · Applied ML
+>
+> [![IEEE Paper](https://img.shields.io/badge/IEEE-Read_Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/abstract/document/11392838)
+
+---
+
+### 📄 Paper 2
+
+> **Uncovering Key Drivers of Tropospheric O₃ Prediction in Rajshahi: A Remote Sensing Framework in the Absence of Ground Monitoring**
+>
+> **Bishwadip Maitra**, Dipanwita Maitra, Subhojit Mandai, Mainak Thakur
+>
+> 🏛️ Publisher: **IEEE** &nbsp;|&nbsp; 🌍 Domain: Environmental Data Science · Remote Sensing · Applied ML
+>
+> [![IEEE Paper](https://img.shields.io/badge/IEEE-Read_Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/abstract/document/11392845)
+
+<br/>
 
 ---
 
