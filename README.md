@@ -229,9 +229,9 @@ I think about AI products holistically — not just the model, but the **system 
 
 ### 📄 Paper 1
 
-> **Uncovering Key Drivers of Tropospheric O₃ Prediction in Rajshahi: A Remote Sensing Framework in the Absence of Ground Monitoring**
+> **Entropy-Guided Transfer Learning for Ground-Level PM2.5 Estimation from Satellite-Derived AOD over Three Indian Cities: Kolkata, Guwahati, and Delhi**
 >
-> **Bishwadip Maitra**, Dipanwita Maitra, Subhojit Mandai, Mainak Thakur
+> **Bishwadip Maitra**, Ritovan Dasgupta, Bhanu Prakash Bhaskarla, Subhojit Mandal, Mainak Thakur
 >
 > 🏛️ Publisher: **IEEE** &nbsp;|&nbsp; 🌍 Domain: Environmental Data Science · Remote Sensing · Applied ML
 >
