@@ -19,7 +19,7 @@
 
 ```yaml
 name: Bishwadip Maitra
-education: B.Tech @ IIIT Sricity
+Education: B.Tech @ IIIT Sricity, M.Tech @ IIT Tirupati
 role: AI Native Microservices Engineer
 interests:
   - AI Product Management
