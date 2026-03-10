@@ -281,6 +281,6 @@ I think about AI products holistically — not just the model, but the **system 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-<sub>⚡ Built with purpose. Shipped with precision. Researched with curiosity.</sub>
+<sub>⚡ Built with purpose, shipped with precision. Researched with curiosity.</sub>
 
 </div>
