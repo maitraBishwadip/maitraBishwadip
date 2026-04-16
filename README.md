@@ -273,6 +273,10 @@ I think about AI products holistically — not just the model, but the **system 
   <img src="https://img.shields.io/badge/Scholar-Research-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 </a>
 
+<a href="https://bishwadipmaitra.aptifolio.app/">
+  <img src="https://img.shields.io/badge/Scholar-Research-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+</a>
+
 </div>
 
 ---
