@@ -274,7 +274,8 @@ I think about AI products holistically — not just the model, but the **system 
 </a>
 
 <a href="https://bishwadipmaitra.aptifolio.app/">
-  <img src="https://img.shields.io/badge/Scholar-Research-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+  <img src="https://img.shields.io/website?url=https%3A%2F%2Fbishwadipmaitra.aptifolio.app%2F" >
+
 </a>
 
 </div>
