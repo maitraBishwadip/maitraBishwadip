@@ -157,9 +157,11 @@ I think about AI products holistically — not just the model, but the **system 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maitraBishwadip&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=A78BFA&text_color=8B949E&ring_color=38BDF8&rank_icon=github" height="165" alt="Bishwadip Maitra's GitHub stats"/>
+<!-- Self-hosted stat cards, regenerated daily by .github/workflows/stats.yml
+     (github-readme-stats.vercel.app is rate-limited and often returns 503) -->
+<img src="https://raw.githubusercontent.com/maitraBishwadip/maitraBishwadip/main/assets/stats-overview.svg" height="180" alt="Bishwadip Maitra's GitHub stats"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitraBishwadip&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=8B949E" height="165" alt="Most used programming languages"/>
+<img src="https://raw.githubusercontent.com/maitraBishwadip/maitraBishwadip/main/assets/stats-langs.svg" height="180" alt="Most used programming languages"/>
 
 <br/><br/>
 
@@ -182,8 +184,8 @@ I think about AI products holistically — not just the model, but the **system 
 
 <!-- Snake: generated into the `output` branch by .github/workflows/snake.yml -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maitraBishwadip/maitraBishwadip/output/github-snake-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/maitraBishwadip/maitraBishwadip/output/github-snake.svg" width="100%" alt="Snake animation eating my GitHub contributions"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maitraBishwadip/maitraBishwadip/output/github-snake-dark.svg?v=2"/>
+  <img src="https://raw.githubusercontent.com/maitraBishwadip/maitraBishwadip/output/github-snake.svg?v=2" width="100%" alt="Snake animation eating my GitHub contributions"/>
 </picture>
 
 <br/><br/>

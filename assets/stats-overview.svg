@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 240" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img" aria-label="GitHub overview statistics for maitraBishwadip">
+
+  <defs>
+    <linearGradient id="ng" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+  </defs>
+  <style>
+    @keyframes fu { from { opacity:0; transform:translateY(8px) }
+                    to   { opacity:1; transform:translateY(0) } }
+    @keyframes tw { 0%,100% { opacity:.15 } 50% { opacity:.9 } }
+    @keyframes bob { 0%,100% { transform:translateY(0) } 50% { transform:translateY(-4px) } }
+    .r  { opacity:0; animation: fu .7s ease-out forwards }
+    .tw { animation: tw 3s ease-in-out infinite }
+    .bob { animation: bob 6s ease-in-out infinite }
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important } .r { opacity:1 !important }
+    }
+  </style>
+  <rect x="0.5" y="0.5" width="519" height="239" rx="14" fill="#0B1329" stroke="url(#ng)" stroke-opacity="0.5"/>
+  <g fill="#CFE9FF">
+    <circle class="tw" cx="428" cy="22" r="1.1"/>
+    <circle class="tw" cx="470" cy="46" r="0.8" style="animation-delay:-1.3s"/>
+    <circle class="tw" cx="392" cy="38" r="0.9" style="animation-delay:-2.2s"/>
+  </g>
+  <text x="24" y="38" font-size="16" font-weight="700" letter-spacing="3" fill="url(#ng)">GITHUB OVERVIEW</text>
+  <text x="496" y="38" text-anchor="end" font-size="12" fill="#64779A">@maitraBishwadip</text>
+  <g class="r" style="animation-delay:0.10s">
+    <rect x="26" y="62" width="9" height="9" rx="1.5" transform="rotate(45 30.5 66.5)" fill="#38BDF8"/>
+    <text x="48" y="72" font-size="14" fill="#94A9C9">Total Stars Earned</text>
+    <text x="492" y="72" text-anchor="end" font-size="15" font-weight="700" fill="#E2E8F0">—</text>
+  </g>
+  <g class="r" style="animation-delay:0.22s">
+    <rect x="26" y="89" width="9" height="9" rx="1.5" transform="rotate(45 30.5 93.5)" fill="#818CF8"/>
+    <text x="48" y="99" font-size="14" fill="#94A9C9">Total Forks</text>
+    <text x="492" y="99" text-anchor="end" font-size="15" font-weight="700" fill="#E2E8F0">—</text>
+  </g>
+  <g class="r" style="animation-delay:0.34s">
+    <rect x="26" y="116" width="9" height="9" rx="1.5" transform="rotate(45 30.5 120.5)" fill="#C084FC"/>
+    <text x="48" y="126" font-size="14" fill="#94A9C9">Followers</text>
+    <text x="492" y="126" text-anchor="end" font-size="15" font-weight="700" fill="#E2E8F0">—</text>
+  </g>
+  <g class="r" style="animation-delay:0.46s">
+    <rect x="26" y="143" width="9" height="9" rx="1.5" transform="rotate(45 30.5 147.5)" fill="#7DD3FC"/>
+    <text x="48" y="153" font-size="14" fill="#94A9C9">Public Repositories</text>
+    <text x="492" y="153" text-anchor="end" font-size="15" font-weight="700" fill="#E2E8F0">—</text>
+  </g>
+  <g class="r" style="animation-delay:0.58s">
+    <rect x="26" y="170" width="9" height="9" rx="1.5" transform="rotate(45 30.5 174.5)" fill="#A5B4FC"/>
+    <text x="48" y="180" font-size="14" fill="#94A9C9">Years on GitHub</text>
+    <text x="492" y="180" text-anchor="end" font-size="15" font-weight="700" fill="#E2E8F0">—</text>
+  </g>
+  <g class="r" style="animation-delay:0.70s">
+    <rect x="26" y="197" width="9" height="9" rx="1.5" transform="rotate(45 30.5 201.5)" fill="#D8B4FE"/>
+    <text x="48" y="207" font-size="14" fill="#94A9C9">Public Commits</text>
+    <text x="492" y="207" text-anchor="end" font-size="15" font-weight="700" fill="#E2E8F0">—</text>
+  </g>
+  <g class="bob" stroke-linejoin="round">
+    <polygon points="465,196 481,204 465,212 449,204" fill="#1B2C55" stroke="#38BDF8"/>
+    <polygon points="449,204 465,212 465,228 449,220" fill="#0D1830" stroke="#38BDF8"/>
+    <polygon points="481,204 465,212 465,228 481,220" fill="#12203F" stroke="#38BDF8"/>
+  </g>
+</svg>
