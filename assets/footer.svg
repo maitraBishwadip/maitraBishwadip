@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img" aria-label="Built with purpose, shipped with precision, researched with curiosity">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#141B3C"/>
+      <stop offset="0.5" stop-color="#0B1329"/>
+      <stop offset="1" stop-color="#050915"/>
+    </linearGradient>
+    <linearGradient id="fneon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+    <filter id="fblur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="16"/></filter>
+    <clipPath id="fcard"><rect x="0" y="0" width="1200" height="170" rx="18"/></clipPath>
+  </defs>
+
+  <style>
+    @keyframes fdrift { from { transform:translateX(-45px) } to { transform:translateX(45px) } }
+    @keyframes ftw { 0%,100% { opacity:.15 } 50% { opacity:.85 } }
+    @keyframes fpulse { 0%,100% { opacity:.55 } 50% { opacity:1 } }
+    .fa { animation: fdrift 12s ease-in-out infinite alternate }
+    .ftw { animation: ftw 3.4s ease-in-out infinite }
+    .fp { animation: fpulse 4s ease-in-out infinite }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important } }
+  </style>
+
+  <g clip-path="url(#fcard)">
+    <rect width="1200" height="170" fill="url(#fbg)"/>
+
+    <!-- aurora -->
+    <ellipse class="fa" cx="250"  cy="130" rx="230" ry="62" fill="#38BDF8" opacity="0.15" filter="url(#fblur)"/>
+    <ellipse class="fa" cx="700"  cy="150" rx="270" ry="72" fill="#818CF8" opacity="0.13" filter="url(#fblur)" style="animation-duration:16s"/>
+    <ellipse class="fa" cx="1000" cy="120" rx="210" ry="58" fill="#C084FC" opacity="0.15" filter="url(#fblur)" style="animation-duration:10s"/>
+
+    <!-- stars -->
+    <g fill="#CFE9FF">
+      <circle class="ftw" cx="120"  cy="40" r="1.1"/>
+      <circle class="ftw" cx="330"  cy="28" r="0.9" style="animation-delay:-1.2s"/>
+      <circle class="ftw" cx="520"  cy="45" r="1.2" style="animation-delay:-2.1s"/>
+      <circle class="ftw" cx="760"  cy="30" r="0.8" style="animation-delay:-.7s"/>
+      <circle class="ftw" cx="930"  cy="50" r="1.0" style="animation-delay:-1.7s"/>
+      <circle class="ftw" cx="1110" cy="35" r="1.1" style="animation-delay:-2.6s"/>
+      <circle class="ftw" cx="640"  cy="60" r="0.7" style="animation-delay:-.4s"/>
+    </g>
+
+    <!-- top accent -->
+    <rect class="fp" x="0" y="0" width="1200" height="3" fill="url(#fneon)"/>
+
+    <text x="600" y="88"  text-anchor="middle" font-size="15" letter-spacing="3" fill="#94A9C9">BUILT WITH PURPOSE &#160;&#183;&#160; SHIPPED WITH PRECISION &#160;&#183;&#160; RESEARCHED WITH CURIOSITY</text>
+    <text x="600" y="118" text-anchor="middle" font-size="12" letter-spacing="2" fill="#64779A">&#8212; BISHWADIP MAITRA &#8212;</text>
+  </g>
+</svg>

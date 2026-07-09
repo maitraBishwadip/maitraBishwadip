@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img" aria-label="Bishwadip Maitra — AI-native backend engineer and air-quality ML researcher">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#050915"/>
+      <stop offset="0.55" stop-color="#0B1329"/>
+      <stop offset="1" stop-color="#141B3C"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+    <radialGradient id="titleGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gridFade" x1="0" y1="186" x2="0" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#fff" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#fff" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blur12" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="12"/></filter>
+    <filter id="blur3" x="-40%" y="-300%" width="180%" height="700%"><feGaussianBlur stdDeviation="3"/></filter>
+    <clipPath id="card"><rect x="0" y="0" width="1200" height="300" rx="18"/></clipPath>
+    <mask id="gridMask"><rect x="0" y="180" width="1200" height="140" fill="url(#gridFade)"/></mask>
+    <clipPath id="tclip">
+      <text x="600" y="128" text-anchor="middle" font-size="56" font-weight="800" letter-spacing="6">BISHWADIP MAITRA</text>
+    </clipPath>
+  </defs>
+
+  <style>
+    @keyframes tw   { 0%,100% { opacity:.15 } 50% { opacity:.9 } }
+    @keyframes rise { from { transform:translateY(0) } to { transform:translateY(14px) } }
+    @keyframes bob  { 0%,100% { transform:translateY(0) } 50% { transform:translateY(-8px) } }
+    @keyframes drift{ from { transform:translateX(-30px) } to { transform:translateX(30px) } }
+    @keyframes pulse{ 0%,100% { opacity:.45 } 50% { opacity:1 } }
+    @keyframes fadeUp { from { opacity:0; transform:translateY(14px) } to { opacity:1; transform:translateY(0) } }
+    @keyframes sweep{ 0% { transform:translateX(0) } 45% { transform:translateX(1750px) } 100% { transform:translateX(1750px) } }
+    .tw { animation: tw 3s ease-in-out infinite }
+    .grid-run { animation: rise 1.5s linear infinite }
+    .bob { animation: bob 7s ease-in-out infinite }
+    .orb { animation: drift 11s ease-in-out infinite alternate }
+    .pulse { animation: pulse 3.2s ease-in-out infinite }
+    .fu { opacity:0; animation: fadeUp .9s ease-out forwards }
+    .sweep { animation: sweep 5s ease-in-out infinite; animation-delay: 1.2s }
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important }
+      .fu { opacity:1 !important }
+    }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+
+    <!-- starfield -->
+    <g fill="#CFE9FF">
+      <circle class="tw" cx="60"   cy="40"  r="1.2"/>
+      <circle class="tw" cx="140"  cy="90"  r="0.9" style="animation-delay:-1s"/>
+      <circle class="tw" cx="210"  cy="30"  r="1.4" style="animation-delay:-2s"/>
+      <circle class="tw" cx="300"  cy="70"  r="1.0" style="animation-delay:-1.5s"/>
+      <circle class="tw" cx="390"  cy="25"  r="0.8" style="animation-delay:-.6s"/>
+      <circle class="tw" cx="480"  cy="55"  r="1.1" style="animation-delay:-2.4s"/>
+      <circle class="tw" cx="560"  cy="20"  r="0.9" style="animation-delay:-1.8s"/>
+      <circle class="tw" cx="700"  cy="45"  r="1.3" style="animation-delay:-.3s"/>
+      <circle class="tw" cx="780"  cy="80"  r="0.8" style="animation-delay:-2.1s"/>
+      <circle class="tw" cx="860"  cy="30"  r="1.1" style="animation-delay:-1.2s"/>
+      <circle class="tw" cx="950"  cy="60"  r="0.9" style="animation-delay:-2.7s"/>
+      <circle class="tw" cx="1040" cy="25"  r="1.2" style="animation-delay:-.9s"/>
+      <circle class="tw" cx="1120" cy="70"  r="1.0" style="animation-delay:-1.6s"/>
+      <circle class="tw" cx="1160" cy="35"  r="0.8" style="animation-delay:-2.2s"/>
+      <circle class="tw" cx="90"   cy="140" r="0.8" style="animation-delay:-.4s"/>
+      <circle class="tw" cx="240"  cy="120" r="1.0" style="animation-delay:-2.5s"/>
+      <circle class="tw" cx="340"  cy="150" r="0.7" style="animation-delay:-1.1s"/>
+      <circle class="tw" cx="1130" cy="140" r="0.9" style="animation-delay:-.7s"/>
+      <circle class="tw" cx="870"  cy="120" r="0.7" style="animation-delay:-1.9s"/>
+      <circle class="tw" cx="500"  cy="120" r="0.8" style="animation-delay:-2.8s"/>
+    </g>
+
+    <!-- ambient glow orbs -->
+    <circle class="orb" cx="150"  cy="85"  r="42" fill="#38BDF8" opacity="0.16" filter="url(#blur12)"/>
+    <circle class="orb" cx="1055" cy="70"  r="55" fill="#C084FC" opacity="0.13" filter="url(#blur12)" style="animation-duration:14s"/>
+    <circle class="orb" cx="320"  cy="190" r="30" fill="#818CF8" opacity="0.12" filter="url(#blur12)" style="animation-duration:9s"/>
+
+    <!-- glow behind title -->
+    <circle cx="600" cy="130" r="190" fill="url(#titleGlow)"/>
+
+    <!-- 3D perspective floor -->
+    <g mask="url(#gridMask)">
+      <g stroke="#38BDF8" stroke-width="1" opacity="0.20">
+        <line x1="600" y1="186" x2="-360" y2="312"/>
+        <line x1="600" y1="186" x2="-240" y2="312"/>
+        <line x1="600" y1="186" x2="-120" y2="312"/>
+        <line x1="600" y1="186" x2="0"    y2="312"/>
+        <line x1="600" y1="186" x2="120"  y2="312"/>
+        <line x1="600" y1="186" x2="240"  y2="312"/>
+        <line x1="600" y1="186" x2="360"  y2="312"/>
+        <line x1="600" y1="186" x2="480"  y2="312"/>
+        <line x1="600" y1="186" x2="600"  y2="312"/>
+        <line x1="600" y1="186" x2="720"  y2="312"/>
+        <line x1="600" y1="186" x2="840"  y2="312"/>
+        <line x1="600" y1="186" x2="960"  y2="312"/>
+        <line x1="600" y1="186" x2="1080" y2="312"/>
+        <line x1="600" y1="186" x2="1200" y2="312"/>
+        <line x1="600" y1="186" x2="1320" y2="312"/>
+        <line x1="600" y1="186" x2="1440" y2="312"/>
+        <line x1="600" y1="186" x2="1560" y2="312"/>
+      </g>
+      <g class="grid-run" stroke="#38BDF8" stroke-width="1" opacity="0.22">
+        <line x1="0" y1="190" x2="1200" y2="190"/>
+        <line x1="0" y1="204" x2="1200" y2="204"/>
+        <line x1="0" y1="218" x2="1200" y2="218"/>
+        <line x1="0" y1="232" x2="1200" y2="232"/>
+        <line x1="0" y1="246" x2="1200" y2="246"/>
+        <line x1="0" y1="260" x2="1200" y2="260"/>
+        <line x1="0" y1="274" x2="1200" y2="274"/>
+        <line x1="0" y1="288" x2="1200" y2="288"/>
+        <line x1="0" y1="302" x2="1200" y2="302"/>
+        <line x1="0" y1="316" x2="1200" y2="316"/>
+      </g>
+    </g>
+
+    <!-- glowing horizon -->
+    <rect class="pulse" x="0" y="186" width="1200" height="2.5" fill="url(#neon)" filter="url(#blur3)"/>
+    <rect x="0" y="187" width="1200" height="1" fill="url(#neon)" opacity="0.9"/>
+
+    <!-- floating isometric cubes (right) -->
+    <g class="bob" stroke-linejoin="round">
+      <polygon points="1010,85 1056,108 1010,131 964,108"    fill="#1B2C55" stroke="#38BDF8" stroke-width="1.2"/>
+      <polygon points="964,108 1010,131 1010,185 964,162"    fill="#0D1830" stroke="#38BDF8" stroke-width="1.2"/>
+      <polygon points="1056,108 1010,131 1010,185 1056,162"  fill="#12203F" stroke="#38BDF8" stroke-width="1.2"/>
+    </g>
+    <g class="bob" style="animation-duration:9s; animation-delay:-2s" stroke-linejoin="round">
+      <polygon points="925,158 953,172 925,186 897,172"      fill="#1B2C55" stroke="#818CF8" stroke-width="1.1"/>
+      <polygon points="897,172 925,186 925,218 897,204"      fill="#0D1830" stroke="#818CF8" stroke-width="1.1"/>
+      <polygon points="953,172 925,186 925,218 953,204"      fill="#12203F" stroke="#818CF8" stroke-width="1.1"/>
+    </g>
+    <g class="bob" style="animation-duration:5.5s; animation-delay:-1s" stroke-linejoin="round">
+      <polygon points="1092,170 1112,180 1092,190 1072,180"  fill="#1B2C55" stroke="#C084FC" stroke-width="1"/>
+      <polygon points="1072,180 1092,190 1092,213 1072,203"  fill="#0D1830" stroke="#C084FC" stroke-width="1"/>
+      <polygon points="1112,180 1092,190 1092,213 1112,203"  fill="#12203F" stroke="#C084FC" stroke-width="1"/>
+    </g>
+    <!-- small cube (left, balances composition) -->
+    <g class="bob" style="animation-duration:8s; animation-delay:-3.5s" stroke-linejoin="round">
+      <polygon points="150,188 166,196 150,204 134,196"      fill="#1B2C55" stroke="#38BDF8" stroke-width="1"/>
+      <polygon points="134,196 150,204 150,222 134,214"      fill="#0D1830" stroke="#38BDF8" stroke-width="1"/>
+      <polygon points="166,196 150,204 150,222 166,214"      fill="#12203F" stroke="#38BDF8" stroke-width="1"/>
+    </g>
+
+    <!-- title + shine sweep -->
+    <g class="fu">
+      <text x="600" y="128" text-anchor="middle" font-size="56" font-weight="800" letter-spacing="6" fill="url(#neon)">BISHWADIP MAITRA</text>
+      <g clip-path="url(#tclip)">
+        <g transform="skewX(-18)">
+          <rect class="sweep" x="-340" y="70" width="240" height="80" fill="url(#shine)" opacity="0.55"/>
+        </g>
+      </g>
+    </g>
+    <text class="fu" style="animation-delay:.25s" x="600" y="165" text-anchor="middle" font-size="16" letter-spacing="3" fill="#94A9C9">AI-NATIVE BACKEND ENGINEER &#160;&#183;&#160; AIR-QUALITY ML RESEARCHER</text>
+
+    <!-- floating tech chips -->
+    <g class="fu" style="animation-delay:.45s">
+      <rect x="368" y="204" width="132" height="30" rx="15" fill="#38BDF8" fill-opacity="0.08" stroke="#38BDF8" stroke-opacity="0.55"/>
+      <text x="434" y="223" text-anchor="middle" font-size="12" letter-spacing="2" fill="#7DD3FC">SPRING AI</text>
+    </g>
+    <g class="fu" style="animation-delay:.6s">
+      <rect x="522" y="204" width="120" height="30" rx="15" fill="#818CF8" fill-opacity="0.08" stroke="#818CF8" stroke-opacity="0.55"/>
+      <text x="582" y="223" text-anchor="middle" font-size="12" letter-spacing="2" fill="#A5B4FC">PYTORCH</text>
+    </g>
+    <g class="fu" style="animation-delay:.75s">
+      <rect x="664" y="204" width="168" height="30" rx="15" fill="#C084FC" fill-opacity="0.08" stroke="#C084FC" stroke-opacity="0.55"/>
+      <text x="748" y="223" text-anchor="middle" font-size="12" letter-spacing="2" fill="#D8B4FE">REMOTE SENSING</text>
+    </g>
+
+    <!-- bottom accent -->
+    <rect x="0" y="296" width="1200" height="4" fill="url(#neon)" opacity="0.85"/>
+  </g>
+</svg>

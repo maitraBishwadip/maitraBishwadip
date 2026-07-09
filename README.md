@@ -1,22 +1,21 @@
 <!-- ============================================================
      Bishwadip Maitra — GitHub Profile README
-     Dark mode  = Deep Space (cyan #38BDF8 on #0d1117)
-     Light mode = Moonlight  (indigo #6E7FDB on #f2f5fc)
-     Theme switches automatically with the viewer's GitHub theme.
+     Design: "Deep Space 3D" — self-hosted animated SVGs
+     (assets/hero.svg, assets/divider.svg, assets/footer.svg)
+     committed to this repo, so they always render and look
+     identical in light AND dark GitHub themes. No flaky
+     third-party theme switching.
      ============================================================ -->
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Bishwadip%20Maitra&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Backend%20%7C%20Air%20Quality%20Research&descSize=20&descAlignY=58&animation=twinkling"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dce6f5,50:b7c7e6,100:8fa6cf&height=200&section=header&text=Bishwadip%20Maitra&fontSize=52&fontColor=2e3440&fontAlignY=38&desc=AI%20%7C%20Backend%20%7C%20Air%20Quality%20Research&descSize=20&descAlignY=58&animation=twinkling" width="100%" alt="Bishwadip Maitra — AI, Backend and Air Quality Research"/>
-</picture>
+<!-- ◆ HERO — animated 3D synthwave banner (self-hosted) -->
+<img src="https://raw.githubusercontent.com/maitraBishwadip/maitraBishwadip/main/assets/hero.svg" width="100%" alt="Bishwadip Maitra — AI-native backend engineer and air-quality ML researcher. Animated 3D banner with a neon perspective grid and floating isometric cubes."/>
 
-<!-- Animated typing intro -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+Native+Microservices+Engineer;Air+Quality+Researcher+%40+UW-BUET+Bangladesh;Backend+%26+Applied+ML+Engineer;IIIT+Sricity+%E2%86%92+IIT+Tirupati+%F0%9F%8E%93"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E7FDB&center=true&vCenter=true&width=700&lines=AI+Native+Microservices+Engineer;Air+Quality+Researcher+%40+UW-BUET+Bangladesh;Backend+%26+Applied+ML+Engineer;IIIT+Sricity+%E2%86%92+IIT+Tirupati+%F0%9F%8E%93" alt="AI Native Microservices Engineer · Air Quality Researcher at UW-BUET Bangladesh"/>
-</picture>
+<br/><br/>
+
+<!-- ◆ Animated typing intro -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=AI+Native+Microservices+Engineer;Air+Quality+Researcher+%40+UW-BUET+Bangladesh;Backend+%26+Applied+ML+Engineer;IIIT+Sricity+%E2%86%92+IIT+Tirupati+%F0%9F%8E%93" alt="AI Native Microservices Engineer · Air Quality Researcher at UW-BUET Bangladesh · Backend and Applied ML Engineer"/>
 
 <br/><br/>
 
@@ -28,11 +27,27 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20to-Collaborate-2ea44f?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to collaborate"/>
 
+<br/><br/>
+
+<!-- ◆ NAV — website-style section links -->
+<strong>
+<a href="#-about-me">⚡ About</a> &nbsp;·&nbsp;
+<a href="#-where-i-work">🔬 Research</a> &nbsp;·&nbsp;
+<a href="#-what-i-do">🧠 Focus</a> &nbsp;·&nbsp;
+<a href="#-tech-stack">🧰 Stack</a> &nbsp;·&nbsp;
+<a href="#-github-analytics">📊 Stats</a> &nbsp;·&nbsp;
+<a href="#-contribution-universe">🌌 3D</a> &nbsp;·&nbsp;
+<a href="#-research--publications">📚 Papers</a> &nbsp;·&nbsp;
+<a href="#-connect">🌐 Connect</a>
+</strong>
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt=""/>
+<br/>
 
-## 👨‍💻 About Me <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="28" alt="waving hand"/>
+<img src="https://raw.githubusercontent.com/maitraBishwadip/maitraBishwadip/main/assets/divider.svg" width="100%" alt=""/>
+
+## ⚡ About Me
 
 **Bishwadip Maitra** — AI-native microservices engineer and environmental data scientist. I build production-grade intelligent backends with **Spring Boot + Spring AI**, and research **air quality (PM2.5, O₃) forecasting with machine learning and satellite remote sensing** across South Asia.
 
@@ -51,9 +66,7 @@ interests:
 currently_building: AI-integrated microservices with Spring Boot + Spring AI
 ```
 
----
-
-## 🏛️ Where I Work
+## 🔬 Where I Work
 
 <table>
   <tr>
@@ -71,8 +84,6 @@ currently_building: AI-integrated microservices with Spring Boot + Spring AI
     </td>
   </tr>
 </table>
-
----
 
 ## 🧠 What I Do
 
@@ -107,16 +118,13 @@ I think about AI products holistically — not just the model, but the **system 
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/maitraBishwadip/maitraBishwadip/main/assets/divider.svg" width="100%" alt=""/>
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 ### ☕ Backend & Frameworks
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,maven&theme=dark"/>
-    <img src="https://skillicons.dev/icons?i=java,spring,maven&theme=light" alt="Java, Spring, Maven" height="52"/>
-  </picture>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven&theme=dark" alt="Java, Spring, Maven" height="52"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
@@ -126,10 +134,7 @@ I think about AI products holistically — not just the model, but the **system 
 
 ### 🤖 ML / AI
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,sklearn&theme=dark"/>
-    <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn&theme=light" alt="Python, PyTorch, scikit-learn" height="52"/>
-  </picture>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn&theme=dark" alt="Python, PyTorch, scikit-learn" height="52"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -138,76 +143,52 @@ I think about AI products holistically — not just the model, but the **system 
 
 ### 🗄️ Databases & Caching
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,redis,mysql&theme=dark"/>
-    <img src="https://skillicons.dev/icons?i=postgres,redis,mysql&theme=light" alt="PostgreSQL, Redis, MySQL" height="52"/>
-  </picture>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mysql&theme=dark" alt="PostgreSQL, Redis, MySQL" height="52"/>
 </p>
 
 ### ☁️ DevOps, Cloud & Tools
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,aws,git,githubactions,linux,postman,idea&theme=dark"/>
-    <img src="https://skillicons.dev/icons?i=docker,aws,git,githubactions,linux,postman,idea&theme=light" alt="Docker, AWS, Git, GitHub Actions, Linux, Postman, IntelliJ IDEA" height="52"/>
-  </picture>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,githubactions,linux,postman,idea&theme=dark" alt="Docker, AWS, Git, GitHub Actions, Linux, Postman, IntelliJ IDEA" height="52"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/maitraBishwadip/maitraBishwadip/main/assets/divider.svg" width="100%" alt=""/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=maitraBishwadip&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&rank_icon=github"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=maitraBishwadip&show_icons=true&hide_border=true&bg_color=f2f5fc&title_color=6e7fdb&icon_color=6e7fdb&text_color=3b4252&rank_icon=github" height="165" alt="Bishwadip Maitra's GitHub stats"/>
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=maitraBishwadip&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=A78BFA&text_color=8B949E&ring_color=38BDF8&rank_icon=github" height="165" alt="Bishwadip Maitra's GitHub stats"/>
 &nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=maitraBishwadip&layout=compact&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitraBishwadip&layout=compact&hide_border=true&bg_color=f2f5fc&title_color=6e7fdb&text_color=3b4252" height="165" alt="Most used programming languages"/>
-</picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitraBishwadip&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=8B949E" height="165" alt="Most used programming languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=maitraBishwadip&theme=transparent&hide_border=true&ring=38BDF8&fire=C084FC&currStreakLabel=38BDF8&sideLabels=8B949E&sideNums=8B949E&currStreakNum=8B949E&dates=6E7681&stroke=8B949E" width="60%" alt="GitHub contribution streak"/>
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=maitraBishwadip&hide_border=true&background=0d1117&stroke=38BDF8&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8&sideLabels=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8892b0"/>
-  <img src="https://streak-stats.demolab.com?user=maitraBishwadip&hide_border=true&background=f2f5fc&stroke=6e7fdb&ring=6e7fdb&fire=9d7bea&currStreakLabel=6e7fdb&sideLabels=3b4252&sideNums=3b4252&currStreakNum=3b4252&dates=8892b0" width="60%" alt="GitHub contribution streak"/>
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=maitraBishwadip&theme=tokyonight&no-frame=true&no-bg=true&column=7"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=maitraBishwadip&theme=flat&no-frame=true&no-bg=true&column=7" width="100%" alt="GitHub trophies"/>
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=maitraBishwadip&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ff6b6b&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maitraBishwadip&bg_color=f2f5fc&color=6e7fdb&line=6e7fdb&point=9d7bea&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=maitraBishwadip&bg_color=0d1117&color=38bdf8&line=38bdf8&point=c084fc&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maitraBishwadip&bg_color=ffffff&color=6e7fdb&line=6e7fdb&point=9d7bea&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph"/>
 </picture>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/maitraBishwadip/maitraBishwadip/main/assets/divider.svg" width="100%" alt=""/>
 
-## 🐍 Contribution Snake
+## 🌌 Contribution Universe
 
 <div align="center">
 
+<!-- Snake: generated into the `output` branch by .github/workflows/snake.yml -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maitraBishwadip/maitraBishwadip/output/github-snake-dark.svg"/>
   <img src="https://raw.githubusercontent.com/maitraBishwadip/maitraBishwadip/output/github-snake.svg" width="100%" alt="Snake animation eating my GitHub contributions"/>
 </picture>
 
-</div>
+<br/><br/>
 
-## 🏙️ Contributions in 3D
-
-<div align="center">
-
+<!-- 3D city: generated into profile-3d-contrib/ on main by .github/workflows/profile-3d.yml -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maitraBishwadip/maitraBishwadip/main/profile-3d-contrib/profile-night-rainbow.svg"/>
   <img src="https://raw.githubusercontent.com/maitraBishwadip/maitraBishwadip/main/profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D contribution calendar"/>
@@ -215,7 +196,7 @@ I think about AI products holistically — not just the model, but the **system 
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/maitraBishwadip/maitraBishwadip/main/assets/divider.svg" width="100%" alt=""/>
 
 ## 📚 Research & Publications
 
@@ -253,9 +234,9 @@ Research keywords: *PM2.5 estimation · transfer learning · satellite AOD · tr
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/maitraBishwadip/maitraBishwadip/main/assets/divider.svg" width="100%" alt=""/>
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <div align="center">
 
@@ -282,20 +263,11 @@ Research keywords: *PM2.5 estimation · transfer learning · satellite AOD · tr
 <br/><br/>
 
 <!-- Closing typing line -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Thanks+for+scrolling+this+far+%E2%9C%A8;Open+to+research+%26+engineering+collaborations!"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=6E7FDB&center=true&vCenter=true&width=600&lines=Thanks+for+scrolling+this+far+%E2%9C%A8;Open+to+research+%26+engineering+collaborations!" alt="Thanks for visiting — open to collaborations"/>
-</picture>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Thanks+for+scrolling+this+far+%E2%9C%A8;Open+to+research+%26+engineering+collaborations!" alt="Thanks for visiting — open to collaborations"/>
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=twinkling"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8fa6cf,50:b7c7e6,100:dce6f5&height=120&section=footer&animation=twinkling" width="100%" alt=""/>
-</picture>
-
-<sub>⚡ Built with purpose, shipped with precision. Researched with curiosity.</sub>
+<!-- ◆ FOOTER — animated aurora card (self-hosted) -->
+<img src="https://raw.githubusercontent.com/maitraBishwadip/maitraBishwadip/main/assets/footer.svg" width="100%" alt="Built with purpose, shipped with precision, researched with curiosity — Bishwadip Maitra"/>
 
 </div>

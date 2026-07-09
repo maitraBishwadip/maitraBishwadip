@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: "0 1 * * *"   # regenerates daily (offset from snake)
   workflow_dispatch:        # lets you run it manually right now
+  push:
+    branches: [main]        # first run happens automatically on push
 
 permissions:
   contents: write
