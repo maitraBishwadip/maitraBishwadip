@@ -45,7 +45,7 @@
   <g class="r" style="animation-delay:0.46s">
     <rect x="26" y="143" width="9" height="9" rx="1.5" transform="rotate(45 30.5 147.5)" fill="#7DD3FC"/>
     <text x="48" y="153" font-size="14" fill="#94A9C9">Public Repositories</text>
-    <text x="492" y="153" text-anchor="end" font-size="15" font-weight="700" fill="#E2E8F0">17</text>
+    <text x="492" y="153" text-anchor="end" font-size="15" font-weight="700" fill="#E2E8F0">18</text>
   </g>
   <g class="r" style="animation-delay:0.58s">
     <rect x="26" y="170" width="9" height="9" rx="1.5" transform="rotate(45 30.5 174.5)" fill="#A5B4FC"/>
@@ -55,7 +55,7 @@
   <g class="r" style="animation-delay:0.70s">
     <rect x="26" y="197" width="9" height="9" rx="1.5" transform="rotate(45 30.5 201.5)" fill="#D8B4FE"/>
     <text x="48" y="207" font-size="14" fill="#94A9C9">Public Commits</text>
-    <text x="492" y="207" text-anchor="end" font-size="15" font-weight="700" fill="#E2E8F0">161</text>
+    <text x="492" y="207" text-anchor="end" font-size="15" font-weight="700" fill="#E2E8F0">162</text>
   </g>
   <g class="bob" stroke-linejoin="round">
     <polygon points="465,196 481,204 465,212 449,204" fill="#1B2C55" stroke="#38BDF8"/>
