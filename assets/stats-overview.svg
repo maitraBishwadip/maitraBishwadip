@@ -30,7 +30,7 @@
   <g class="r" style="animation-delay:0.10s">
     <rect x="26" y="62" width="9" height="9" rx="1.5" transform="rotate(45 30.5 66.5)" fill="#38BDF8"/>
     <text x="48" y="72" font-size="14" fill="#94A9C9">Total Stars Earned</text>
-    <text x="492" y="72" text-anchor="end" font-size="15" font-weight="700" fill="#E2E8F0">0</text>
+    <text x="492" y="72" text-anchor="end" font-size="15" font-weight="700" fill="#E2E8F0">3</text>
   </g>
   <g class="r" style="animation-delay:0.22s">
     <rect x="26" y="89" width="9" height="9" rx="1.5" transform="rotate(45 30.5 93.5)" fill="#818CF8"/>
@@ -40,7 +40,7 @@
   <g class="r" style="animation-delay:0.34s">
     <rect x="26" y="116" width="9" height="9" rx="1.5" transform="rotate(45 30.5 120.5)" fill="#C084FC"/>
     <text x="48" y="126" font-size="14" fill="#94A9C9">Followers</text>
-    <text x="492" y="126" text-anchor="end" font-size="15" font-weight="700" fill="#E2E8F0">8</text>
+    <text x="492" y="126" text-anchor="end" font-size="15" font-weight="700" fill="#E2E8F0">9</text>
   </g>
   <g class="r" style="animation-delay:0.46s">
     <rect x="26" y="143" width="9" height="9" rx="1.5" transform="rotate(45 30.5 147.5)" fill="#7DD3FC"/>
