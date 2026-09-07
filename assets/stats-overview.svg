@@ -35,7 +35,7 @@
   <g class="r" style="animation-delay:0.22s">
     <rect x="26" y="89" width="9" height="9" rx="1.5" transform="rotate(45 30.5 93.5)" fill="#818CF8"/>
     <text x="48" y="99" font-size="14" fill="#94A9C9">Total Forks</text>
-    <text x="492" y="99" text-anchor="end" font-size="15" font-weight="700" fill="#E2E8F0">0</text>
+    <text x="492" y="99" text-anchor="end" font-size="15" font-weight="700" fill="#E2E8F0">1</text>
   </g>
   <g class="r" style="animation-delay:0.34s">
     <rect x="26" y="116" width="9" height="9" rx="1.5" transform="rotate(45 30.5 120.5)" fill="#C084FC"/>
